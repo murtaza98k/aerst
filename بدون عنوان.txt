@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>المحامي مرتضى عباس الغزي - موقع التواصل الرسمي</title>
+    <meta name="description" content="موقع المحامي مرتضى عباس الغزي - محامي في محكمة استئناف المثنى، متخصص في القضاء والقوانين العراقية">
+    <meta name="keywords" content="محامي, قانون, استئناف, المثنى, مرتضى الغزي">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@400;700&display=swap');
+        
+        :root {
+            --primary: #1a365d;
+            --secondary: #e2b979;
+            --dark: #0a2342;
+            --light: #f7f7f7;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Tajawal', sans-serif;
+        }
+        
+        body {
+            background-color: var(--light);
+            color: var(--dark);
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        header {
+            background: linear-gradient(rgba(26, 54, 93, 0.8), rgba(26, 54, 93, 0.8)), 
+                        url('https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/aac8ac4a-2df7-409f-8b9d-4048548c7004.png') center/cover no-repeat;
+            color: white;
+            text-align: center;
+            padding: 80px 20px;
+            margin-bottom: 40px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 15px;
+            font-weight: 700;
+        }
+        
+        h2 {
+            font-size: 1.8rem;
+            color: var(--primary);
+            margin: 30px 0 15px;
+            border-bottom: 2px solid var(--secondary);
+            padding-bottom: 10px;
+            display: inline-block;
+        }
+        
+        .domain-display {
+            background: white;
+            color: var(--primary);
+            padding: 15px;
+            border-radius: 5px;
+            display: inline-block;
+            margin: 20px 0;
+            font-size: 1.2rem;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+        }
+        
+        .contact-info {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            margin-bottom: 40px;
+        }
+        
+        .contact-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+        
+        .contact-icon {
+            background: var(--secondary);
+            color: white;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-left: 15px;
+            font-size: 1.2rem;
+        }
+        
+        .social-links {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-top: 20px;
+        }
+        
+        .social-link {
+            background: var(--primary);
+            color: white;
+            padding: 12px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            transition: all 0.3s ease;
+            box-shadow: 0 3px 5px rgba(0,0,0,0.1);
+        }
+        
+        .social-link:hover {
+            background: var(--dark);
+            transform: translateY(-2px);
+        }
+        
+        .social-icon {
+            margin-left: 8px;
+        }
+        
+        .about-me {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+        
+        .experience-item {
+            margin-bottom: 20px;
+        }
+        
+        .experience-title {
+            font-weight: bold;
+            color: var(--primary);
+        }
+        
+        footer {
+            text-align: center;
+            padding: 30px 0;
+            margin-top: 50px;
+            color: var(--dark);
+            border-top: 1px solid #eee;
+        }
+        
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+            
+            .social-links {
+                flex-direction: column;
+            }
+        }
+    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>المحامي مرتضى عباس عباس الغزي</h1>
+            <div class="domain-display">
+                الموقع الرسمي للمحامي مرتضى عباس الغزي
+            </div>
+            <p>مستشار قانوني - محامي لدى محاكم استئناف المثنى</p>
+        </header>
+        
+        <div class="contact-info">
+            <h2>معلومات التواصل</h2>
+            
+            <div class="contact-item">
+                <div class="contact-icon">
+                    <i class="fas fa-phone"></i>
+                </div>
+                <div>
+                    <strong>الهاتف:</strong> +964 780 575 9080
+                </div>
+            </div>
+            
+            <div class="contact-item">
+                <div class="contact-icon">
+                    <i class="fas fa-envelope"></i>
+                </div>
+                <div>
+                    <strong>البريد الإلكتروني:</strong> 
+                    <a href="mailto:mrtzyalsmawym@gmail.com">mrtzyalsmawym@gmail.com</a>
+                </div>
+            </div>
+            
+            <h3 style="margin-top: 30px; margin-bottom: 15px; color: var(--dark);">تواصل معنا عبر وسائل التواصل</h3>
+            
+            <div class="social-links">
+                <a href="https://t.me/M_rt9" class="social-link" target="_blank">
+                    <i class="fab fa-telegram social-icon"></i>
+                    تلجرام
+                </a>
+                
+                <a href="https://www.instagram.com/5w85" class="social-link" target="_blank">
+                    <i class="fab fa-instagram social-icon"></i>
+                    إنستجرام
+                </a>
+                
+                <a href="https://www.facebook.com/1ini1" class="social-link" target="_blank">
+                    <i class="fab fa-facebook-f social-icon"></i>
+                    فيسبوك
+                </a>
+            </div>
+        </div>
+        
+        <div class="about-me">
+            <h2>السيرة الذاتية</h2>
+            
+            <div class="experience-item">
+                <div class="experience-title">الوظيفة الحالية:</div>
+                <p>محامي في محكمة استئناف المثنى</p>
+            </div>
+            
+            <div class="experience-item">
+                <div class="experience-title">المؤهلات العلمية:</div>
+                <p>بكالوريوس في القانون من جامعة ساوة</p>
+            </div>
+            
+            <div class="experience-item">
+                <div class="experience-title">التخصص:</div>
+                <p>القضاء والقوانين العراقية - الاستئنافات القانونية</p>
+            </div>
+        </div>
+        
+        <footer>
+            <p>جميع الحقوق محفوظة © 2023 | موقع المحامي مرتضى عباس الغزي</p>
+        </footer>
+    </div>
+</body>
+</html>
+
